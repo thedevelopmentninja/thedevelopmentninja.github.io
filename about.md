@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Game developer and designer.
+App developer and designer.
 
 ### Contact me
 
-[thegamedevninja@yahoo.com](mailto:thegamedevninja@yahoo.com)
+[thedevelopmentninja@yahoo.com](mailto:thedevelopmentninja@yahoo.com)
