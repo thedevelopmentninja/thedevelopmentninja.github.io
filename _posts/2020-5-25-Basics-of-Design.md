@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Art of Viddeo Game Development
+title: Basics of Design
 ---
-<img src="{{ site.baseurl }}/images/art-of-video-game-development-cover.png" alt="art of video game development cover">
+<img src="{{ site.baseurl }}/images/basics-of-design-cover-horizontal.png" alt="Basics of Design Cover Horizontal.png">
 
 ### Comming Soon
 
